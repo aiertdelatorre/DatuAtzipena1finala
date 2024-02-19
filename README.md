@@ -47,4 +47,3 @@ Bestalde bigarrena, 500 erregistro dituen eta egokituta dagoen JSON fitxategia d
 Aplikazioa martxan jartzeko hurrengo pausuak jarraitu behar dira, Lehen aipatutako bigarren json fitxategia jaitsi, lokalean datu base bat sortu eta honen barruan kolekzio bat sortu, behin guzti hau egin eta gero jaitsitako fitxategitik datuak importatu kolekziora.
 
 Jadanik kolekzioa sortuta eta datuak importatuta ditugunean, aplikazioa jaitsi eta application.properties fitxategira joan eta bertan zure serbitzariaren helbidea(ConnectionString-a) eta datubasea ezarri
-<h2>Bideoa</h2>
